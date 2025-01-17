@@ -1,0 +1,1 @@
+ai based note app which convert complex explainations into simlp
