@@ -3,3 +3,8 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+h1{
+    font-size: larger;
+    color: aqua;
+    border: 1px solid red;
+}
